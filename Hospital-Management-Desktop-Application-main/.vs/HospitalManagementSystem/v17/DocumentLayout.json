@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\ucnursesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucnursesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\ucnursesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucnursesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\uclaboratorytechniciansdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\uclaboratorytechniciansdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\ucsurgeonsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucsurgeonsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\ucreceptionistsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucreceptionistsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\ucpharmacistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucpharmacistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\ucaddsurgeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucaddsurgeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\ucotherstaffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucotherstaffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\ucotherstaffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucotherstaffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\ucreceptionistsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucreceptionistsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\ucpharmacistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucpharmacistdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\ucdoctorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucdoctorsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\cshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\cshospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\ucaddnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucaddnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\csadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\csadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\changeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\changeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\sasma\\onedrive\\desktop\\hospital\\hospital-management-desktop-application-main\\hospitalmanagementsystem\\uchome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\uchome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\hospitalmanagementsystem\\ucadddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{684103C6-19DC-4E3D-9585-1A9F249D685D}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\ucadddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucSurgeonsData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucSurgeonsData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucSurgeonsData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucSurgeonsData.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucSurgeonsData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:41:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucAddSurgeon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddSurgeon.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucAddSurgeon.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddSurgeon.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddSurgeon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:53.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucOtherStaffData.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucOtherStaffData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucOtherStaffData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucOtherStaffData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucOtherStaffData.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAswFwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:49.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucOtherStaffData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucOtherStaffData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucOtherStaffData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucOtherStaffData.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucOtherStaffData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:47.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucReceptionistsData.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucReceptionistsData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucReceptionistsData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucReceptionistsData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucReceptionistsData.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:39.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucReceptionistsData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucReceptionistsData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucReceptionistsData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucReceptionistsData.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucReceptionistsData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucPharmacistData.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucPharmacistData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucPharmacistData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucPharmacistData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucPharmacistData.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAD4v1MAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucPharmacistData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucPharmacistData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucPharmacistData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucPharmacistData.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucPharmacistData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:31.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucDoctorsData.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucDoctorsData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucDoctorsData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucDoctorsData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucDoctorsData.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIAywCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:40:03.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ucAddDoctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddDoctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucAddDoctor.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddDoctor.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddDoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:34:25.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucLaboratoryTechniciansData.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucLaboratoryTechniciansData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucLaboratoryTechniciansData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucLaboratoryTechniciansData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucLaboratoryTechniciansData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:30:01.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucNursesData.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucNursesData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucNursesData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucNursesData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucNursesData.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAD4v0gAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:28:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucNursesData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucNursesData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucNursesData.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucNursesData.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucNursesData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:28:39.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "csAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\csAdmin.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\csAdmin.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\csAdmin.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\csAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:27:54.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "csHospital.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\csHospital.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\csHospital.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\csHospital.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\csHospital.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAASwIEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:22:53.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucAddNurse.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddNurse.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucAddNurse.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucAddNurse.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucAddNurse.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAlwFQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:22:22.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangeUC.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ChangeUC.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ChangeUC.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ChangeUC.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ChangeUC.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAiwCQBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:17:03.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\MainForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:14:52.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:14:41.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\MainForm.Designer.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\MainForm.Designer.cs",
+              "ViewState": "AQIAAI8CAAAAAAAAAAAAAD8BAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:13:51.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ucHome.cs",
+              "DocumentMoniker": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucHome.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ucHome.cs",
+              "ToolTip": "C:\\Users\\sasma\\OneDrive\\Desktop\\hospital\\Hospital-Management-Desktop-Application-main\\HospitalManagementSystem\\ucHome.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ucHome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:11:35.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
